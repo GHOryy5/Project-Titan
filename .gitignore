@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+build/
+dist/
+*.egg-info/
+
+# Databases (NEVER UPLOAD THIS)
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# OS Junk
+.DS_Store

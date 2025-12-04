@@ -1,0 +1,20 @@
+# TITAN WARFARE SYSTEM - DEPENDENCIES
+# Install with: pip install -r requirements.txt
+
+# --- Core Mathematics & Physics ---
+numpy>=1.26.0      # Matrix operations for Kalman Filters & Radar Math
+scipy>=1.11.0      # Advanced signal processing (FFT/DSP) for Seismic/RF
+
+# --- Cyber & Cryptography ---
+cryptography>=41.0 # High-level encryption primitives
+requests>=2.31.0   # HTTP library for Network Recon/CNE
+scapy>=2.5.0       # Packet manipulation (Optional for raw socket ops)
+
+# --- Utilities ---
+colorama>=0.4.6    # Cross-platform terminal colors (ANSI support)
+tqdm>=4.66.0       # Progress bars for brute-force attacks
+setuptools>=68.0   # Packaging and distribution
+
+# --- Development ---
+pytest>=7.4.0      # Unit testing framework
+black>=23.9.0      # Code formatting (PEP8 compliance)
