@@ -43,14 +43,13 @@ TITAN handles the chaos instead of pretending it doesn't exist.
 **What TITAN Actually Does:**
 - Figures out the satellite's position at that exact moment.
 - Measures the Doppler distortion on the uplink.
-- Uses the satellite's trajectory + RSSI changes to geolocate the sender.
 
 **End Result:**
 A precise coordinate on a truck in the middle of a desert that should be impossible to track.
 
 ### B. KINETIC DEFENSE — *The Shield*
 **Scenario:** A rocket team in a dense urban zone where every building complicates the shot.
-**Tech Used:** Radar math, Kalman filters, proportional navigation, and collateral-damage modeling.
+**Tech Used:** Radar math, Kalman filters, and collateral-damage modeling.
 
 **What TITAN Actually Does:**
 - Verifies the launch signature through SNR analysis.
@@ -105,7 +104,7 @@ The daemon doesn't.
 
 ## 4. Strategic Conclusion
 
-TITAN works like a small-scale, open version of platforms used by the big players — Gotham, EWPMT, and their cousins.
+TITAN works like a small-scale, open version of platforms used by the big players   Gotham, EWPMT, and their cousins.
 
 The strategic insight is simple:
 
@@ -120,4 +119,4 @@ Wait for a human to manually connect it all?
 
 **That's failure.**
 
-**This is where warfare is heading — whether you're ready or not.**
+**This is where warfare is heading ,  whether you're ready or not.**
